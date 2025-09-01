@@ -1,8 +1,5 @@
 <template>
-    <h1 class="text-sky-800 text-2xl text-bold">
-      🎬 Movie Quiz App
-    </h1>
-    <quizBlock />
+    <quizBlock class="h-screen flex items-center justify-center"/>
 </template>
 
 <script setup>
